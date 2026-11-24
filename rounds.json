@@ -1,0 +1,28 @@
+{
+  "signed_in": true,
+  "blind_rounds": {
+    "rounds": 3,
+    "schedule": [
+      "2026-11-25T02:10:32.666Z",
+      "2026-11-25T10:10:16.333Z",
+      "2026-11-25T18:10:00.000Z"
+    ],
+    "judged": 0,
+    "next_at": "2026-11-25T02:10:32.666Z",
+    "judging": null,
+    "ranked": [
+      null,
+      null,
+      null
+    ],
+    "board": "hidden"
+  },
+  "score": {
+    "title": "Judge win rate",
+    "precision": 0,
+    "better": "higher"
+  },
+  "results": [],
+  "entries": [],
+  "sponsor_view": false
+}
